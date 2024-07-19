@@ -1,0 +1,49 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": " caneta Bic preta",
+      "price": 3.5
+    },
+    {
+      "id": "2",
+      "name": "Notebook Mac Pro",
+      "price": 12000.5
+    },
+    {
+      "id": "3",
+      "name": "Sansung s23+",
+      "price": 5000.9
+    },
+    {
+      "id": "8c4b",
+      "nome": "caneta",
+      "preco": 1.99
+    },
+    {
+      "id": "f715",
+      "nome": "caneta preta bic",
+      "preco": 1.99
+    },
+    {
+      "id": "5358",
+      "nome": "carro verde",
+      "price": 79000.9
+    },
+    {
+      "id": "d5ac",
+      "nome": "carro verde",
+      "price": 79000.9
+    },
+    {
+      "id": "cd1c",
+      "nome": "bola",
+      "price": 10
+    },
+    {
+      "id": "e636",
+      "name": "teclado red dragon de ferro",
+      "price": 190.99
+    }
+  ]
+}
